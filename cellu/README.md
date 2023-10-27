@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&fontSize=90)
 
-# Cellu Diabetes Management App :ambulance:
+# Cellu: Diabetes Management App :ambulance:
 
 Cellu Diabetes Management App is a mobile application utilizing Flutter to aid diabetes patients in
 blood glucose management by leveraging PPG (Photoplethysmogram) sensor data and deep learning
