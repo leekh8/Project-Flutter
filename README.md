@@ -15,8 +15,7 @@ This is a collection of projects that utilize Flutter.
 
 ### 1. flutter-chat
 
-- **Description**: A real-time messaging application that allows users to communicate instantly over
-  various channels.
+- **Description**: A real-time messaging application that allows users to communicate instantly over various channels.
 - **Goals**:
     - Understand and implement real-time messaging functionality.
     - Ensure a user-friendly interface for seamless communication.
@@ -26,33 +25,29 @@ This is a collection of projects that utilize Flutter.
     - Database: Firebase Firestore
     - Testing: Unit and Widget Tests with Flutter Testing Framework
 
-[//]: # (---)
+---
 
-[//]: # ()
+### 2. cellu
 
-[//]: # (### 2. FlutterHub: GitHub Decoration Project :star::crayon:)
+#### 👥 Team Project: Cellu is collaboratively worked on by team Cellu, focusing on providing a non-invasive blood sugar prediction service to enhance diabetes management.
 
-[//]: # ()
+- **Description**: Cellu Diabetes Management App is a mobile application utilizing PPG(Photoplethysmogram) sensor data to provide precise and timely blood sugar predictions through deep learning technologies, aimed at aiding diabetes patients in managing their blood sugar levels and enhancing their quality of life.
 
-[//]: # (- **Description**: FlutterHub is a project to build a mobile application that automatically)
+- **Goals**:
 
-[//]: # (  decorates markdown format input.)
+    - Collect and analyze biometric data using PPG sensors.
+    - Develop and train a deep learning model for blood sugar prediction.
+    - Ensure accurate and real-time blood sugar prediction to aid diabetes management.
+    - Offer a personalized dashboard for user-specific blood sugar management.
 
-[//]: # (- **Goals**:)
-
-[//]: # (    - Facilitate the creation and decoration of md files through a user-friendly interface.)
-
-[//]: # (    - Make GitHub decoration accessible for everyone.)
-
-[//]: # (- **Tech Stack**:)
-
-[//]: # (    - FrontEnd: Flutter, Provider/ Riverpod/ Bloc &#40;choose one or mention any other you are using&#41;)
-
-[//]: # (    - Markdown Parser: flutter_markdown / markdown &#40;choose one or mention any other you are using&#41;)
-
-[//]: # (    - Deploy: &#40;Deployment tools/ platforms&#41;)
-
-[//]: # (    - Testing: &#40;Testing frameworks&#41;)
+- **Tech Stack**:
+    - FrontEnd: Flutter, Dart
+    - AI Modeling: PyTorch
+    - Hardware Design: Catia or AutoCAD
+    - Backend: Python-based or Node.js
+    - Database: MySQL
+    - Visualization: Figma
+    - Testing: Unit and Widget Tests with Flutter Testing Framework
 
 ---
 
